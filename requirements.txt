@@ -1,0 +1,8 @@
+streamlit
+pypdf
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+huggingface_hub
